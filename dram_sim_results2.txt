@@ -1,0 +1,9 @@
+Simulation results log
+Timestamp: Thu 25 Apr 2024 09:43:48 PM EDT
+-------------------------------
+Running simulation with 1024 rows, 1024 cols, 1 errors/hour, 10000000000 accesses, scrub every 30 seconds, for 3600 seconds, in 200 batches
+Errors Encountered: 0
+Errors Corrected: 0
+Simulation completed.
+
+Running simulation with 1024 rows, 1024 cols, 1 errors/hour, 10000000000 accesses, scrub every 60 seconds, for 3600 seconds, in 200 batches

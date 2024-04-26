@@ -1,0 +1,5 @@
+Running simulation with 1024 rows, 1024 cols, 1 errors/hour, 10000000000 accesses, scrub every 30 seconds, for 3600 seconds, in 200 batches
+Simulation completed.
+
+Running simulation with 1024 rows, 1024 cols, 1 errors/hour, 10000000000 accesses, scrub every 60 seconds, for 3600 seconds, in 200 batches
+Running simulation with 1024 rows, 1024 cols, 1 errors/hour, 15000000000 accesses, scrub every 30 seconds, for 3600 seconds, in 300 batches
